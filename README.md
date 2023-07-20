@@ -45,5 +45,14 @@ from sklearn.preprocessing import MinMaxScaler
 
 from sklearn.metrics import mean_squared_error  
 
+O projeto foi feito em um notebook na máquina local e portanto, é no formato de ipynb. O script é dividido em três partes principais:  
+
+1) Setup das bibliotecas necessárias
+2) limpeza e preenchimento de dados faltantes
+3) Análise exploratória de dados
+4) Transformação de dados categóricos em dados númericos
+5) Exercício de regressão (previsão)
+   
+
 
 
