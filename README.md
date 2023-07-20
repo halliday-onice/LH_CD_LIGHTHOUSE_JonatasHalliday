@@ -44,6 +44,7 @@ from sklearn.metrics import make_scorer, r2_score, mean_absolute_error, mean_squ
 from sklearn.preprocessing import MinMaxScaler  
 
 from sklearn.metrics import mean_squared_error  
+
 Este repositório contém os seguintes arquivos:  
 
 1) Notebook intitulado "aloacaoCarros.ipynb" contendo todo o código utilizado no projeto
