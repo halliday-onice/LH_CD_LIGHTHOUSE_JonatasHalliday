@@ -44,6 +44,14 @@ from sklearn.metrics import make_scorer, r2_score, mean_absolute_error, mean_squ
 from sklearn.preprocessing import MinMaxScaler  
 
 from sklearn.metrics import mean_squared_error  
+Este repositório contém os seguintes arquivos:  
+
+1) Notebook intitulado "aloacaoCarros.ipynb" contendo todo o código utilizado no projeto
+2) Arquivo cars_train.csv utilizado no script  
+3) Arquivo cars_test.csv também utilizado no script
+4) Relatório de Análises Estatísticas em formato pdf
+5) Arquivo predicted.csv contendo uma planilha contendo o id e o preço que foi predito
+
 
 O projeto foi feito em um notebook na máquina local e portanto, é no formato de ipynb. O script é dividido em três partes principais:  
 
@@ -51,7 +59,13 @@ O projeto foi feito em um notebook na máquina local e portanto, é no formato d
 2) limpeza e preenchimento de dados faltantes
 3) Análise exploratória de dados
 4) Transformação de dados categóricos em dados númericos
-5) Exercício de regressão (previsão)
+5) Exercício de regressão (previsão) do preço do veículo
+
+Para rodar o projeto basta abrir o arquivo em uma máquina local com algum editor de texto que possua uma extensão capaz de ler arquivos no formato .ipynb ou com o google colab.  
+Para rodar cada célula no notebook basta pressionar a tecla shift + enter(ou return)  
+
+
+A divisão e resposta das perguntas nos itens citados no documento estão respondidas na forma de Markdown ao longo notebook.
    
 
 
